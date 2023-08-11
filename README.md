@@ -1,8 +1,7 @@
 # SMALLSH
-#### Portfolio assignment for CS 344: Operating Systems I course at Oregon State University
 
 ### Introduction
-For this assignment, I wrote my own shell (smallsh) in C. smallsh implements a command line interface similar to well-known shells, such as bash. 
+My own shell written in C which implements a command line interface similar to well-known shells, such as bash. 
 
 The program:
 1. Prints an interactive input prompt
